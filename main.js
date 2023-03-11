@@ -369,7 +369,7 @@ function createLi(imgsrc, title, listext, imgspecial){
   \**************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-module.exports = __webpack_require__.p + "6e8147a98736a5d3ae57.jpg";
+module.exports = __webpack_require__.p + "imgs/6e8147a98736a5d3ae57.jpg";
 
 /***/ }),
 
@@ -379,7 +379,7 @@ module.exports = __webpack_require__.p + "6e8147a98736a5d3ae57.jpg";
   \*************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-module.exports = __webpack_require__.p + "0cd512dc8df321d411ef.jpg";
+module.exports = __webpack_require__.p + "imgs/0cd512dc8df321d411ef.jpg";
 
 /***/ }),
 
@@ -389,7 +389,7 @@ module.exports = __webpack_require__.p + "0cd512dc8df321d411ef.jpg";
   \******************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-module.exports = __webpack_require__.p + "18c1b9f7b36ae990279b.jpg";
+module.exports = __webpack_require__.p + "imgs/18c1b9f7b36ae990279b.jpg";
 
 /***/ }),
 
@@ -399,7 +399,7 @@ module.exports = __webpack_require__.p + "18c1b9f7b36ae990279b.jpg";
   \*******************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-module.exports = __webpack_require__.p + "ed8e527e94a9c8a51db6.jpg";
+module.exports = __webpack_require__.p + "imgs/ed8e527e94a9c8a51db6.jpg";
 
 /***/ }),
 
@@ -409,7 +409,7 @@ module.exports = __webpack_require__.p + "ed8e527e94a9c8a51db6.jpg";
   \****************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-module.exports = __webpack_require__.p + "4cda62fc5badc21df7b4.jpg";
+module.exports = __webpack_require__.p + "imgs/4cda62fc5badc21df7b4.jpg";
 
 /***/ }),
 
@@ -419,7 +419,7 @@ module.exports = __webpack_require__.p + "4cda62fc5badc21df7b4.jpg";
   \*************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-module.exports = __webpack_require__.p + "cc1cabf7e8f49ea2dcdb.jpg";
+module.exports = __webpack_require__.p + "imgs/cc1cabf7e8f49ea2dcdb.jpg";
 
 /***/ }),
 
@@ -429,7 +429,7 @@ module.exports = __webpack_require__.p + "cc1cabf7e8f49ea2dcdb.jpg";
   \**********************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-module.exports = __webpack_require__.p + "9fdbb12d90b15dcfb935.jpg";
+module.exports = __webpack_require__.p + "imgs/9fdbb12d90b15dcfb935.jpg";
 
 /***/ }),
 
@@ -439,7 +439,7 @@ module.exports = __webpack_require__.p + "9fdbb12d90b15dcfb935.jpg";
   \**********************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-module.exports = __webpack_require__.p + "6f327618656961ec6aec.jpg";
+module.exports = __webpack_require__.p + "imgs/6f327618656961ec6aec.jpg";
 
 /***/ }),
 
@@ -449,7 +449,7 @@ module.exports = __webpack_require__.p + "6f327618656961ec6aec.jpg";
   \***************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-module.exports = __webpack_require__.p + "3b8b0a60a642fb3d918a.jpg";
+module.exports = __webpack_require__.p + "imgs/3b8b0a60a642fb3d918a.jpg";
 
 /***/ })
 
